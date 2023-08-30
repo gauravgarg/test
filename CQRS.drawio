@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T12:10:52.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dSIOgV0m2lrEjL97q6LI" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T12:11:08.856Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q7hGPBkvtfUU9ra4p4FS" version="21.6.8" type="github">
   <diagram name="Page-1" id="UylE4nt9vGS-XkBwLtvB">
     <mxGraphModel dx="1306" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,9 +14,6 @@
         </mxCell>
         <mxCell id="bytqDrpdBHM-UTYLoQuf-1" value="Controller" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="140" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0-XJ6ZV1Iwe7BIil74GJ-1" value="Java Bean&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="50" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0-XJ6ZV1Iwe7BIil74GJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;fontStyle=1" parent="1" source="0-XJ6ZV1Iwe7BIil74GJ-2" target="bytqDrpdBHM-UTYLoQuf-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
